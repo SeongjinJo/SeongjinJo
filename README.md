@@ -9,6 +9,6 @@
 - 🌱 I’m currently learning Spring
 - 💻 All my projects have been uploaded to https://github.com/SeongjinJo?tab=repositories
 - 📫 How to reach me: whtjdwls11@naver.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SeongjinJo)](https://github.com/anuraghazra/github-readme-stats)
 
